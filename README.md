@@ -1,2 +1,2 @@
 # eyeglasses-shop
-Eyeglasses shop concept
+Optic Eyeglasses Co. (eyeglasses shop concept)
